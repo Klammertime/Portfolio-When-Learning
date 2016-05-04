@@ -1,11 +1,8 @@
 #Portfolio
 
-#####Udacity Front-End Web Developer Nanodegree Program
--------------------------------------------------------
+##Udacity Front-End Web Developer Nanodegree Program
 
-1) [Program Description](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
-
-2) [Certificate of Completion](https://github.com/Klammertime/Portfolio-START-HERE-/blob/master/certificate.pdf)
+Program Description](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) & Certificate of Completion](https://github.com/Klammertime/Portfolio-START-HERE-/blob/master/certificate.pdf)
 
 * [**Neighborhood Map**](https://github.com/Klammertime/P5-Neighborhood-Map)
 
@@ -20,8 +17,7 @@
 * [Feed Reader Testing](https://github.com/Klammertime/P6-Feed-Reader-Testing)
 
 
-#####Foothill College JavaScript for Programmers
-------------------------------------------------
+##Foothill College JavaScript for Programmers
 
 * [Class Description & Assignments](https://github.com/Klammertime/CS-22A-JavaScript-for-Programmers)
 
@@ -29,8 +25,8 @@
 
 * [JavaScript Game: Snowed In](https://github.com/Klammertime/Snowed-In)
 
-#####Other Projects
--------------------
+
+##Other Projects
 
 * [jQuery Plugin: Insignia](https://github.com/Klammertime/Insignia)
 
@@ -38,4 +34,4 @@
 
 * [Personal Website: AudreyKlammer.com](https://github.com/Klammertime/AudreyKlammer.com)
 
-* Client Project: Landing Pages: [Company Landing Page](https://github.com/Klammertime/Company-Landing-Page), [Newsletter Landing Pages] (https://github.com/Klammertime/Newsletter-Landing-Pages), [Event Landing Page](https://github.com/Klammertime/Event-Landing-Page)
+* Client Landing Pages: [Company Landing Page](https://github.com/Klammertime/Company-Landing-Page), [Newsletter Landing Pages] (https://github.com/Klammertime/Newsletter-Landing-Pages), [Event Landing Page](https://github.com/Klammertime/Event-Landing-Page)
