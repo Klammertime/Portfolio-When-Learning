@@ -31,7 +31,7 @@
 * jQuery Plugin: [Insignia](https://github.com/Klammertime/Insignia)
 
 * jQuery Plugin: [Scrambler](https://github.com/Klammertime/Scrambler)
-![Scrambler](https://github.com/Klammertime/P3-Classic-Arcade-Game-Clone/blob/multiplayer/images/char-princess-girl.png "scrambler")
+![Scrambler](https://github.com/Klammertime/Portfolio-START-HERE/blob/master/screenshots/scrambler.png "scrambler")
 
 * Personal Website: [AudreyKlammer.com](https://github.com/Klammertime/AudreyKlammer.com)
 
