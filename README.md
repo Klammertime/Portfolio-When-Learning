@@ -2,11 +2,11 @@
 
 ##Udacity Front-End Web Developer Nanodegree Program
 
-Program Description](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) & Certificate of Completion](https://github.com/Klammertime/Portfolio-START-HERE-/blob/master/certificate.pdf)
+[Program Description](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) & [Certificate of Completion](https://github.com/Klammertime/Portfolio-START-HERE-/blob/master/certificate.pdf)
 
-* [**Neighborhood Map**](https://github.com/Klammertime/P5-Neighborhood-Map)
+* [Neighborhood Map](https://github.com/Klammertime/P5-Neighborhood-Map)
 
-* [**Classic Arcade Game Clone**](https://github.com/Klammertime/P3-Classic-Arcade-Game-Clone)
+* [Classic Arcade Game Clone](https://github.com/Klammertime/P3-Classic-Arcade-Game-Clone)
 
 * [Portfolio Site](https://github.com/Klammertime/P1-Portfolio-Site)
 
@@ -21,17 +21,18 @@ Program Description](https://www.udacity.com/course/front-end-web-developer-nano
 
 * [Class Description & Assignments](https://github.com/Klammertime/CS-22A-JavaScript-for-Programmers)
 
-* [JavaScript Game: Memory](https://github.com/Klammertime/Memory)
+* JavaScript Game: [Memory](https://github.com/Klammertime/Memory)
 
-* [JavaScript Game: Snowed In](https://github.com/Klammertime/Snowed-In)
+* JavaScript Game: [Snowed In](https://github.com/Klammertime/Snowed-In)
 
 
 ##Other Projects
 
-* [jQuery Plugin: Insignia](https://github.com/Klammertime/Insignia)
+* jQuery Plugin: [Insignia](https://github.com/Klammertime/Insignia)
 
-* [jQuery Plugin: Scrambler](https://github.com/Klammertime/Scrambler)
+* jQuery Plugin: [Scrambler](https://github.com/Klammertime/Scrambler)
+![Scrambler](https://github.com/Klammertime/P3-Classic-Arcade-Game-Clone/blob/multiplayer/images/char-princess-girl.png "scrambler")
 
-* [Personal Website: AudreyKlammer.com](https://github.com/Klammertime/AudreyKlammer.com)
+* Personal Website: [AudreyKlammer.com](https://github.com/Klammertime/AudreyKlammer.com)
 
 * Client Landing Pages: [Company Landing Page](https://github.com/Klammertime/Company-Landing-Page), [Newsletter Landing Pages] (https://github.com/Klammertime/Newsletter-Landing-Pages), [Event Landing Page](https://github.com/Klammertime/Event-Landing-Page)
