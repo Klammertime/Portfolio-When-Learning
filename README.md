@@ -1,40 +1,41 @@
 #Portfolio
 
 #####Udacity Front-End Web Developer Nanodegree Program
+-------------------------------------------------------
 
-* [Program Description](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+1) [Program Description](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
 
-* [Certificate of Completion](https://github.com/Klammertime/Portfolio-START-HERE-/blob/master/certificate.pdf)
+2) [Certificate of Completion](https://github.com/Klammertime/Portfolio-START-HERE-/blob/master/certificate.pdf)
 
-**Projects**
-------------
+* [**Neighborhood Map**](https://github.com/Klammertime/P5-Neighborhood-Map)
 
-1) Portfolio Site
+* [**Classic Arcade Game Clone**](https://github.com/Klammertime/P3-Classic-Arcade-Game-Clone)
 
-2) [Interactive Resume](https://github.com/Klammertime/P2-Interactive-Resume)
+* [Portfolio Site](https://github.com/Klammertime/P1-Portfolio-Site)
 
-3) [**Classic Arcade Game Clone**](https://github.com/Klammertime/P3-Classic-Arcade-Game-Clone)
+* [Website Optimization](https://github.com/Klammertime/P4-Website-Optimization)
 
-4) [Website Optimization](https://github.com/Klammertime/P4-Website-Optimization)
+* [Interactive Resume](https://github.com/Klammertime/P2-Interactive-Resume)
 
-5) [**Neighborhood Map**](https://github.com/Klammertime/P5-Neighborhood-Map)
+* [Feed Reader Testing](https://github.com/Klammertime/P6-Feed-Reader-Testing)
 
-6) [Feed Reader Testing](https://github.com/Klammertime/P6-Feed-Reader-Testing)
 
 #####Foothill College JavaScript for Programmers
+------------------------------------------------
 
-1) [Class Description & Assignments](https://github.com/Klammertime/CS-22A-JavaScript-for-Programmers)
+* [Class Description & Assignments](https://github.com/Klammertime/CS-22A-JavaScript-for-Programmers)
 
-2) [JavaScript Game: Memory](https://github.com/Klammertime/Memory)
+* [JavaScript Game: Memory](https://github.com/Klammertime/Memory)
 
-3) [JavaScript Game: Snowed In](https://github.com/Klammertime/Snowed-In)
+* [JavaScript Game: Snowed In](https://github.com/Klammertime/Snowed-In)
 
 #####Other Projects
+-------------------
 
-1) [jQuery Plugin: Insignia](https://github.com/Klammertime/Insignia)
+* [jQuery Plugin: Insignia](https://github.com/Klammertime/Insignia)
 
-2) [jQuery Plugin: Scrambler](https://github.com/Klammertime/Scrambler)
+* [jQuery Plugin: Scrambler](https://github.com/Klammertime/Scrambler)
 
-3) [Personal Website: AudreyKlammer.com](https://github.com/Klammertime/AudreyKlammer.com)
+* [Personal Website: AudreyKlammer.com](https://github.com/Klammertime/AudreyKlammer.com)
 
-4) Client Project: Landing Pages
+* Client Project: Landing Pages: [Company Landing Page](https://github.com/Klammertime/Company-Landing-Page), [Newsletter Landing Pages] (https://github.com/Klammertime/Newsletter-Landing-Pages), [Event Landing Page](https://github.com/Klammertime/Event-Landing-Page)
