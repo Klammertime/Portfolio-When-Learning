@@ -4,13 +4,13 @@
 
 [Program Description](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) & [Certificate of Completion](https://github.com/Klammertime/Portfolio-START-HERE-/blob/master/certificate.pdf)
 
+###[Neighborhood Map](https://github.com/Klammertime/P5-Neighborhood-Map)
 ![SF Film Map]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/sfFilmMap_600.png "SF Film Map")
-* [Neighborhood Map](https://github.com/Klammertime/P5-Neighborhood-Map)
 
+###[Classic Arcade Game Clone](https://github.com/Klammertime/P3-Classic-Arcade-Game-Clone)
 ![Frogger]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/P3_600.png "Frogger")
-* [Classic Arcade Game Clone](https://github.com/Klammertime/P3-Classic-Arcade-Game-Clone)
 
 ![Portfolio Site]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/P1_600.png "Portfolio Site")
