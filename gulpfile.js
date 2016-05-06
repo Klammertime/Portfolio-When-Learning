@@ -11,8 +11,7 @@ var options = {
   dist: './dist/'
 };
 
-/* Want these image widths: 600px, 960px, 1440px, 1800px, 3600px
-  highest average original size for all */
+/* Want these image widths: 600px, 300px */
 
 gulp.task('resize600', function () {
   return gulp.src('img_original/*')
@@ -25,32 +24,23 @@ gulp.task('resize600', function () {
     .pipe(gulp.dest('img'));
 });
 
-// // After images resized need to be optimized or compressed using an algorithm that decides
-// // what data to keep and what it can throw away while still maintaining visual integrity.
-// // Plus need to get rid of extra metadata added during imageResize.
-// gulp.task('optimize', ['resize600'], function () {
-//   return gulp.src('img/*')
-//     .pipe(imagemin({
-//       use:[imageminJpegRecompress({
-//         loops:4,
-//         min: 60,
-//         max: 95,
-//         quality:'high'
-//       })]
-//     }))
-//     .pipe(gulp.dest('img'));
-// });
-
-// gulp.task('watchFiles', function(){
-//   gulp.watch('img_original/*', ['resize3600', 'resize1800','resize1440','resize960']);
-// });
+gulp.task('resize300', function () {
+  return gulp.src('img_original/*')
+    .pipe(imageResize({
+      width : 300,
+      upscale : false,
+      imageMagick: true
+    }))
+    .pipe(rename({suffix: '_300'}))
+    .pipe(gulp.dest('img'));
+});
 
 // creating clean task to delete files in dist
 gulp.task('clean', function(){
   del(['dist', 'img']);
 });
 
-gulp.task("build", ['resize600'], function(){
+gulp.task("build", ['resize600', 'resize300'], function(){
   return gulp.src([
     "img/**"], { base: "./"})
       .pipe(gulp.dest("dist"));

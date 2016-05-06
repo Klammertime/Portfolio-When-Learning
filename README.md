@@ -31,7 +31,7 @@
 * jQuery Plugin: [Insignia](https://github.com/Klammertime/Insignia)
 
 * jQuery Plugin: [Scrambler](https://github.com/Klammertime/Scrambler)
-![Scrambler](https://github.com/Klammertime/Portfolio-START-HERE/blob/master/img/scrambler_600.png "scrambler")
+![Scrambler](https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/scrambler_300.png "scrambler")
 
 * Personal Website: [AudreyKlammer.com](https://github.com/Klammertime/AudreyKlammer.com)
 
