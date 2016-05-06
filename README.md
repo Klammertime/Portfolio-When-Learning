@@ -27,11 +27,11 @@
 
 ##Other Projects
 ![Insignia]
-(https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/insignia_300.png "insignia")
+(https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/insignia_600.png "insignia")
 ![Scrambler]
-(https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/scrambler_300.png "scrambler")
+(https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/scrambler_600.png "scrambler")
 ![AudreyKlammer.com]
-(https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/personalSite_300.png "AudreyKlammer.com")
+(https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/personalSite_600.png "AudreyKlammer.com")
 
 * jQuery Plugin: [Insignia](https://github.com/Klammertime/Insignia)
 
