@@ -2,7 +2,7 @@
 
 ##Udacity Front-End Web Developer Nanodegree Program
 
-[Program Description](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) & [Certificate of Completion](https://github.com/Klammertime/Portfolio-START-HERE-/blob/master/certificate.pdf)
+* [Program Description](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) & [Certificate of Completion](https://github.com/Klammertime/Portfolio-START-HERE-/blob/master/certificate.pdf)
 
 ###[Neighborhood Map](https://github.com/Klammertime/P5-Neighborhood-Map)
 ![SF Film Map]
@@ -12,15 +12,15 @@
 ![Frogger]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/P3_600.png "Frogger")
 
+###[Portfolio Site](https://github.com/Klammertime/P1-Portfolio-Site)
 ![Portfolio Site]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/P1_600.png "Portfolio Site")
-* [Portfolio Site](https://github.com/Klammertime/P1-Portfolio-Site)
 
 * [Website Optimization](https://github.com/Klammertime/P4-Website-Optimization)
 
+###[Interactive Resume](https://github.com/Klammertime/P2-Interactive-Resume)
 ![Interactive Resume]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/P2_600.png "Interactive Resume")
-* [Interactive Resume](https://github.com/Klammertime/P2-Interactive-Resume)
 
 * [Feed Reader Testing](https://github.com/Klammertime/P6-Feed-Reader-Testing)
 
@@ -29,28 +29,29 @@
 
 * [Class Description & Assignments](https://github.com/Klammertime/CS-22A-JavaScript-for-Programmers)
 
+###JavaScript Game: [Memory](https://github.com/Klammertime/Memory)
 ![Memory]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/memory_600.png "Memory")
-* JavaScript Game: [Memory](https://github.com/Klammertime/Memory)
 
+###JavaScript Game: [Snowed In](https://github.com/Klammertime/Snowed-In)
 ![Snowed In]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/snowedIn_600.png "Snowed In")
-* JavaScript Game: [Snowed In](https://github.com/Klammertime/Snowed-In)
 
 ##Other Projects
 
+###jQuery Plugin: [Insignia](https://github.com/Klammertime/Insignia)
 ![Insignia]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/insignia_600.png "insignia")
-* jQuery Plugin: [Insignia](https://github.com/Klammertime/Insignia)
 
+###jQuery Plugin: [Scrambler](https://github.com/Klammertime/Scrambler)
 ![Scrambler]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/scrambler_600.png "scrambler")
-* jQuery Plugin: [Scrambler](https://github.com/Klammertime/Scrambler)
 
+###Personal Website: [AudreyKlammer.com](https://github.com/Klammertime/AudreyKlammer.com)
 ![AudreyKlammer.com]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/personalSite_600.png "AudreyKlammer.com")
-* Personal Website: [AudreyKlammer.com](https://github.com/Klammertime/AudreyKlammer.com)
 
+###Client Landing Pages: [Company Landing Page](https://github.com/Klammertime/Company-Landing-Page), [Newsletter Landing Pages] (https://github.com/Klammertime/Newsletter-Landing-Pages), [Event Landing Page](https://github.com/Klammertime/Event-Landing-Page)
 ![Newsletter Landing Page]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/newsletterLanding_600.png "Newsletter Landing Page")
-* Client Landing Pages: [Company Landing Page](https://github.com/Klammertime/Company-Landing-Page), [Newsletter Landing Pages] (https://github.com/Klammertime/Newsletter-Landing-Pages), [Event Landing Page](https://github.com/Klammertime/Event-Landing-Page)
+
