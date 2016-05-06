@@ -4,25 +4,25 @@
 
 * [Program Description](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) & [Certificate of Completion](https://github.com/Klammertime/Portfolio-START-HERE-/blob/master/certificate.pdf)
 
-###[Neighborhood Map](https://github.com/Klammertime/P5-Neighborhood-Map)
-![SF Film Map]
-(https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/sfFilmMap_600.png "SF Film Map")
-
-###[Classic Arcade Game Clone](https://github.com/Klammertime/P3-Classic-Arcade-Game-Clone)
-![Frogger]
-(https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/P3_600.png "Frogger")
-
-###[Portfolio Site](https://github.com/Klammertime/P1-Portfolio-Site)
+###1) [Portfolio Site](https://github.com/Klammertime/P1-Portfolio-Site)
 ![Portfolio Site]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/P1_600.png "Portfolio Site")
 
-* [Website Optimization](https://github.com/Klammertime/P4-Website-Optimization)
-
-###[Interactive Resume](https://github.com/Klammertime/P2-Interactive-Resume)
+###2) [Interactive Resume](https://github.com/Klammertime/P2-Interactive-Resume)
 ![Interactive Resume]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/P2_600.png "Interactive Resume")
 
-* [Feed Reader Testing](https://github.com/Klammertime/P6-Feed-Reader-Testing)
+###3) [Classic Arcade Game Clone](https://github.com/Klammertime/P3-Classic-Arcade-Game-Clone)
+![Frogger]
+(https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/P3_600.png "Frogger")
+
+###4) [Website Optimization](https://github.com/Klammertime/P4-Website-Optimization)
+
+###5) [Neighborhood Map](https://github.com/Klammertime/P5-Neighborhood-Map)
+![SF Film Map]
+(https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/sfFilmMap_600.png "SF Film Map")
+
+###6) [Feed Reader Testing](https://github.com/Klammertime/P6-Feed-Reader-Testing)
 
 
 ##Foothill College JavaScript for Programmers
@@ -51,7 +51,11 @@
 ![AudreyKlammer.com]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/personalSite_600.png "AudreyKlammer.com")
 
-###Client Landing Pages: [Company Landing Page](https://github.com/Klammertime/Company-Landing-Page), [Newsletter Landing Pages] (https://github.com/Klammertime/Newsletter-Landing-Pages), [Event Landing Page](https://github.com/Klammertime/Event-Landing-Page)
+###Client Landing Pages: 
+
+* [Company Landing Page](https://github.com/Klammertime/Company-Landing-Page)
+* [Newsletter Landing Pages] (https://github.com/Klammertime/Newsletter-Landing-Pages)
+* [Event Landing Page](https://github.com/Klammertime/Event-Landing-Page)
 ![Newsletter Landing Page]
 (https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/newsletterLanding_600.png "Newsletter Landing Page")
 
