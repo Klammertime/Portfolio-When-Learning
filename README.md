@@ -25,14 +25,17 @@
 
 * JavaScript Game: [Snowed In](https://github.com/Klammertime/Snowed-In)
 
-
 ##Other Projects
+![Insignia]
+(https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/insignia_300.png "insignia")
+![Scrambler]
+(https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/scrambler_300.png "scrambler")
+![AudreyKlammer.com]
+(https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/personalSite_300.png "AudreyKlammer.com")
 
 * jQuery Plugin: [Insignia](https://github.com/Klammertime/Insignia)
 
 * jQuery Plugin: [Scrambler](https://github.com/Klammertime/Scrambler)
-![Scrambler]
-(https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/scrambler_300.png "scrambler")
 
 * Personal Website: [AudreyKlammer.com](https://github.com/Klammertime/AudreyKlammer.com)
 
