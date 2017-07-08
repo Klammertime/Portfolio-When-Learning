@@ -42,7 +42,7 @@
 ### Personal Website: [AudreyKlammer.com](https://github.com/Klammertime/AudreyKlammer.com)
 ![AudreyKlammer.com](https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/personalSite_600.png "AudreyKlammer.com")
 
-###Client Landing Pages: 
+### Client Landing Pages: 
 
 * [Company Landing Page](https://github.com/Klammertime/Company-Landing-Page), [Newsletter Landing Pages](https://github.com/Klammertime/Newsletter-Landing-Pages), & [Event Landing Page](https://github.com/Klammertime/Event-Landing-Page)
 ![Newsletter Landing Page](https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/newsletterLanding_600.png "Newsletter Landing Page")
