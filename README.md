@@ -15,7 +15,8 @@
 
 ### 4) [Website Optimization](https://github.com/Klammertime/P4-Website-Optimization)
 
-### 5) [Neighborhood Map](https://github.com/Klammertime/P5-Neighborhood-Map)
+### 5) Neighborhood Map: Google Maps API has changed so I need to update this project, so I've hidden it for now because I don't 
+like broken projects.
 ![SF Film Map](https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/sfFilmMap_600.png "SF Film Map")
 
 ### 6) [Feed Reader Testing](https://github.com/Klammertime/P6-Feed-Reader-Testing)
