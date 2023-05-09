@@ -9,6 +9,7 @@
 
 ### 2) [Interactive Resume](https://github.com/Klammertime/P2-Interactive-Resume)
 ![Interactive Resume](https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/P2_600.png "Interactive Resume")
+//TODO Google Maps API has changed and/or my key needs to be updated.
 
 ### 3) [Classic Arcade Game Clone](https://github.com/Klammertime/P3-Classic-Arcade-Game-Clone)
 ![Frogger](https://github.com/Klammertime/Portfolio-START-HERE/blob/master/dist/img/P3_600.png "Frogger")
